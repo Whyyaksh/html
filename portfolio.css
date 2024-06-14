@@ -1,4 +1,7 @@
 html{
     scroll-behavior: smooth;
 }
+.img{
+    border: 5px solid grey;
+}
 /*scroll-behavior is used for basic smooth transitions*/
